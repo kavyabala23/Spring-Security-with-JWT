@@ -18,4 +18,5 @@ Structure of the JSON Web token
 
 For more 
 https://docs.spring.io/spring-security/reference/servlet/architecture.html
+
 https://jwt.io/introduction
