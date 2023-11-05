@@ -12,7 +12,8 @@ Springboot security has various filterchain to manage authentication and authori
 Structure of the JSON Web token
 
 
-![images](https://github.com/kavyabala23/Spring-Security-with-JWT/assets/54107817/e117204c-e703-44f3-8484-dd147cca654a)
+![jwt-structure](https://github.com/kavyabala23/Spring-Security-with-JWT/assets/54107817/bfcff78f-f77a-4cbf-80f5-9440b3fdae78)
+
 
 
 For more 
