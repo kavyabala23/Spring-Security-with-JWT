@@ -5,6 +5,7 @@ Springboot security has various filterchain to manage authentication and authori
 ![filterchain](https://github.com/kavyabala23/Spring-Security-with-JWT/assets/54107817/ba09a7bd-eebc-4152-a4c8-b37264bb3d34)
 
 
+
 ![image](https://github.com/kavyabala23/Spring-Security-with-JWT/assets/54107817/ecc0cf32-4b98-40b6-8fc5-9e543e372c73)
 
 
